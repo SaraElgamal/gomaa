@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000497758448",
+    "project_id": "gomaa-4ea40",
+    "storage_bucket": "gomaa-4ea40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000497758448:android:cd5a04febb3988a4b6c235",
+        "android_client_info": {
+          "package_name": "com.gomaa.digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw-ZkbJxoYUu6N5yqh_Hprt4jRFoKE3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000497758448:android:b893a7bb5bc1951db6c235",
+        "android_client_info": {
+          "package_name": "gomaa.digital.fine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw-ZkbJxoYUu6N5yqh_Hprt4jRFoKE3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
